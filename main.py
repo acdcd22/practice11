@@ -12,13 +12,7 @@ img {
     display: block;
     margin: 0 auto;
 }
-            
-[data-testid="stExpanderDetails"] {
-    display: flex; 
-    justify-content: center;
-    font-size: 70px;
-                    
-}
+                            
 [data-testid="stExpanderToggleIcon"] {
     visibility: hidden;
             
