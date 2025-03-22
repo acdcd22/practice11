@@ -86,22 +86,6 @@ initial_pokemons = [
         "types": ["불꽃"],
         "image_url": "https://storage.googleapis.com/firstpenguine-coding-school/pokemons/acebun.webp"
     },
-    {   "name": "배관우",
-        "types": ["전기"],
-        "image_url": "https://storage.googleapis.com/firstpenguine-coding-school/pokemons/acebun.webp"
-    },
-    {   "name": "장민근",
-        "types": ["강철"],
-        "image_url": "https://storage.googleapis.com/firstpenguine-coding-school/pokemons/acebun.webp"
-    },
-    {   "name": "손승민",
-        "types": ["땅"],
-        "image_url": "https://storage.googleapis.com/firstpenguine-coding-school/pokemons/acebun.webp"
-    },
-    {   "name": "양진",
-        "types": ["독"],
-        "image_url": "https://storage.googleapis.com/firstpenguine-coding-school/pokemons/acebun.webp"
-    },
 ]   
 
 example_pokemon = {
